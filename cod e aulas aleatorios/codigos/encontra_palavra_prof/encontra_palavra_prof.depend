@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1659560539 source:c:\users\alunos\desktop\encontra_palavra_prof\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

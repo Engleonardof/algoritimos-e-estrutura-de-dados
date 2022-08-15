@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1659558869 source:c:\users\alunos\desktop\procurarpalavra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

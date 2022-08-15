@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659462365 source:c:\users\alunos\onedrive\Área de trabalho\vogaisecons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1659632498 source:d:\conect\algoritimos e estrutura de dados\codigos\leo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
